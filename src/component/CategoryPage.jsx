@@ -1,0 +1,1 @@
+//Viser event-kort innen et gitt kategori 

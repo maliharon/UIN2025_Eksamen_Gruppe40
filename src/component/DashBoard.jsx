@@ -1,0 +1,1 @@
+//Viser "min side" med info om brukere og kjøp
