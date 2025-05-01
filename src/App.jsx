@@ -1,6 +1,9 @@
+import { useState } from 'react';
 import Layout from "./component/Layout";
+import { Routes, Route } from 'react-router-dom';
+
+
 function App() {
- 
   const [festivaler, setFestivaler] = useState();
 
   // En funksjon som henter spilldata fra en API
